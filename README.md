@@ -24,21 +24,9 @@ I'm a Computer Science undergrad (graduating 2025) who loves building impactful 
 
 ## 🌟 Featured Projects
 
-### 🚦 Real-Time Railway Gate Traffic Monitoring System
-- Designed an intelligent system using sensors, GPS, and IoT for real-time vehicle and train detection.
+### 🚦 [Real-Time Railway Gate Traffic Monitoring System](https://github.com/sthavirpunwatkar/Railway-gate-tracker)
+- Dart-based application focused on real-time tracking and management for railway crossings.
 - Optimized railway crossing signals and enabled remote monitoring for enhanced safety.
-
-### 📈 Zerodha Clone
-- Engineered a responsive stock trading platform with React.js, Chart.js, Node.js, Express.js, and MongoDB.
-- Focused on secure transaction management and real-time updates.
-
-### 💼 LinkedIn Clone
-- Developed a scalable professional networking platform with React.js, Firebase, Material-UI, and Firestore.
-- Emphasized seamless user experience, real-time feeds, and secure messaging.
-
-### 🐙 GitHub Clone
-- Built a GitHub replica featuring user profiles, repository search, and real-time data integration.
-- Leveraged Redux, Axios, and GitHub APIs for interactive, high-performance UI.
 
 ### 📚 [Examflow-Management](https://github.com/sthavirpunwatkar/Examflow-Management)
 - A TypeScript-based exam management system for streamlined exam processes and organization.
@@ -48,9 +36,6 @@ I'm a Computer Science undergrad (graduating 2025) who loves building impactful 
 
 ### 🤖 [realway-with-genAI](https://github.com/sthavirpunwatkar/realway-with-genAI)
 - Integrates generative AI with railway systems, combining modern AI and TypeScript.
-
-### 🚉 [Railway-gate-tracker](https://github.com/sthavirpunwatkar/Railway-gate-tracker)
-- Dart-based application focused on real-time tracking and management for railway crossings.
 
 ### 💹 ZTrade-Clone
 - Clone of a trading platform for simulating and learning trading workflows. (Private repository)
