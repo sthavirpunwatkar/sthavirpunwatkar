@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science undergrad (graduating 2025) who loves building impactful software solutions and exploring the latest in tech. Whether it's creating full-stack web apps, engineering smart IoT systems, or leading tech teams, I thrive on learning and challenging myself.  
+I'm a Computer Science undergrad (graduate 2025) who loves building impactful software solutions and exploring the latest in tech. Whether it's creating full-stack web apps, engineering smart IoT systems, or leading tech teams, I thrive on learning and challenging myself.  
 
 ---
 
