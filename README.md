@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sthavir Punwatkar!
 
-🎓 **Computer Science Student @ SKNSITS, SPPU, Maharashtra, India**  
+🎓 **Computer Science Graduate 2025**  
 📧 [punwatkarsthavir@gmail.com](mailto:punwatkarsthavir@gmail.com) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/sthavirpunwatkar/)  
 💡 Passionate about Full-Stack Development, GenAI, and Real-World Problem Solving
 
@@ -24,6 +24,10 @@ I'm a Computer Science undergrad (graduate 2025) who loves building impactful so
 
 ## 🌟 Featured Projects
 
+### 🧠 [AI Calculator APP](https://github.com/sthavirpunwatkar/AI_Calculator_FE)
+- AI-powered calculator that interprets natural language math queries and returns accurate results.
+- Frontend built with Vite for an interactive UI; backend powered by FastAPI and gemini logic.
+
 ### 🚦 [Real-Time Railway Gate Traffic Monitoring System](https://github.com/sthavirpunwatkar/Railway-gate-tracker)
 - Dart-based application focused on real-time tracking and management for railway crossings.
 - Optimized railway crossing signals and enabled remote monitoring for enhanced safety.
@@ -31,27 +35,28 @@ I'm a Computer Science undergrad (graduate 2025) who loves building impactful so
 ### 📚 [Examflow-Management](https://github.com/sthavirpunwatkar/Examflow-Management)
 - A TypeScript-based exam management system for streamlined exam processes and organization.
 
-### 🎵 PLAYLIST-PORTER
-- TypeScript project designed for playlist management and transfer across platforms. (Private repository)
+### 🎵 [PLAYLIST-PORTER](https://github.com/sthavirpunwatkar/PLAYLIST-PORTER)
+- TypeScript project designed for playlist management and transfer across platforms. 
 
 ### 🤖 [realway-with-genAI](https://github.com/sthavirpunwatkar/realway-with-genAI)
 - Integrates generative AI with railway systems, combining modern AI and TypeScript.
 
-### 💹 ZTrade-Clone
-- Clone of a trading platform for simulating and learning trading workflows. (Private repository)
+### 💹 [ZTrade-Clone](https://github.com/sthavirpunwatkar/Z-Trade/)
+- Clone of a trading platform for simulating and learning trading workflows.
 
 ---
 
 ## 💼 Experience & Certifications
 
-- **Intern, Jubilant Foodwork:**  
+- **Apna College Web Development + DSA:**  
+  Proficiency in front-end & back-end development, RESTful APIs, DSA, and full-stack project delivery.
+  
+- **Azure AI development**(ongoing)  
   Enhanced operational reliability and delivery efficiency through process automation and cross-functional teamwork.
 
 - **Tata Cybersecurity Security Analyst Simulation:**  
   Gained hands-on experience in IAM, cybersecurity principles, and best practices.
 
-- **Apna College Web Development + DSA:**  
-  Proficiency in front-end & back-end development, RESTful APIs, DSA, and full-stack project delivery.
 
 ---
 
