@@ -156,7 +156,7 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/sthavirpunwatkar/voter-ocr-extractor">
+        <a href="https://github.com/sthavirpunwatkar/ocr-to-extract-electoral-data">
           <img src="assets/ocr.png" width="100%" style="border-radius:10px;" alt="Voter OCR Extractor"/><br />
           <b>Voter OCR Extractor</b>
         </a>
