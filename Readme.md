@@ -101,11 +101,7 @@
    height="50" /></a>  
   <a href="#"><img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="OpenCV" height="50"
    /></a>  
-  <a href="#"><img src="https://raw.githubusercontent.com/huggingface/brand-assets/main/hf-logo.png" alt="NLP" height="50"
-   /></a>  
-  <a href="#"><img
-   src="https://user-images.githubusercontent.com/112314643/218258287-c33589b2-2615-467f-94a1-02685055b387.png"
-   alt="LangChain" height="50" /></a>  
+    
 </div>
 </td>
 
@@ -160,7 +156,7 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/sthavirpunwatkar/voter-ocr-extractor">
+        <a href="[https://github.com/sthavirpunwatkar/voter-ocr-extractor](https://github.com/sthavirpunwatkar/ocr-to-extract-electoral-data)">
           <img src="assets/ocr.png" width="100%" style="border-radius:10px;" alt="Voter OCR Extractor"/><br />
           <b>Voter OCR Extractor</b>
         </a>
